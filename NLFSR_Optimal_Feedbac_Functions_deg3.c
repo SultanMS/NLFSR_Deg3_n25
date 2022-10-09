@@ -1,6 +1,7 @@
 /***************************************************************
 * Project Name: NLFSR Optimal FeedbackFunctions of Degree3        
 * Devolper:  Ibraheem Al-Hejri  (alhejri87@gmail.com)
+* Date:   2022
 ****************************************************************/
 
 using namespace std;
